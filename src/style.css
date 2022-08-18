@@ -30,7 +30,7 @@ tbody > tr:hover > * {
 }
 
 body {
-        background-image:url("../../img/forest.jpg");
+        background-image:url("/public/img/forest.jpg");
         background-repeat: no-repeat;
         background-size: cover;
         width: 100%;
